@@ -1,0 +1,14 @@
+{
+  "id": "session-1785779742502",
+  "startedAt": "2026-08-03T17:55:42.502Z",
+  "cwd": "/Users/francisco/Documents/GitHub/legal-sources",
+  "context": {},
+  "metrics": {
+    "edits": 0,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "endedAt": "2026-08-03T17:55:43.332Z",
+  "duration": 830
+}
